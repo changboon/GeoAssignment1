@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name>Yuhua Market  Hawker Centre</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Yuhua healthier hawker centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.731449160482,1.34522277964403</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Haig Road Market  Cooked Food Centre</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Haig road healthier hawker centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.895609219037,1.31514238295552</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Geylang Serai Market</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Geylang Serai healthier hawker centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.897977085992,1.31672548318968</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Eunos Crescent</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Eunos Crescent healthier hawker centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.904330865663,1.32034095639919</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marine Terrace</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Marine Terrace healthier hawker centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.915761667555,1.30577553630975</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>448 Clementi</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - 448 Clementi healthier hawker centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.764510262632,1.31326527833921</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rasa Rasa</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Rasa Rasa healthier coffeeshopWoodlands</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.770549384986,1.44092406008318</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rasa Rasa</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Rasa Rasa healthier coffeeshopBedok</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.924236747232,1.33175242788891</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bukit Batok Village Eating House</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Bukit Batok healthier coffeeshop</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.74751804617,1.35020679314892</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Food King</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Food King healthier coffeeshop</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.755343425227,1.34869578818129</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Meng Soon Huat</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Meng Soon Huat healthier coffeeshop</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.751227272449,1.36134338211132</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Food House</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Food House healthier coffeeshop</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.759918827943,1.34452417934449</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Foodfare Sengkang Rivervale Mall</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Foodfare healthier food courtRivervale Mall</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.904472746704,1.3922176601553</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>IMM Cafeteria</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - IMM Cafeteria healthier food court</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.74687680773,1.3349179200305</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Happy Hawkers</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Happy Hawkers healthier coffeeshop</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.73961280393,1.33430432025151</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Seah Im</name>
+<description>
+<p><font color="red"><i></i>
+<b>PostalCode - </b>
+</font></p>
+<p><font color="Blue"><i></i>
+<b>Discription - Seah Im healthier hawker centre</b>
+</font></p>
+</description>
+<Point>
+<coordinates>103.819248110743,1.26656811923305</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
